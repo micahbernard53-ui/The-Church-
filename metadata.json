@@ -1,0 +1,6 @@
+{
+  "name": "The Church",
+  "description": "Connecting the Church. Caring for People. Growing Together. Complete church management, WhatsApp communication, AI pastoral care, and member portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
